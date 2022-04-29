@@ -25,7 +25,7 @@ function initRootNodeSize() {
 }
 
 function read_all_data(){
-    let foldName = 'data'
+    let foldName = 'data-done'
 	let filename_list = ['./' + foldName + '/agent_0_info.csv'
 						,'./' + foldName + '/agent_1_info.csv'
 						,'./' + foldName + '/agent_2_info.csv'
